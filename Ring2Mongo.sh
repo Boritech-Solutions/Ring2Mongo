@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 #    Ring2Mongo uses PyEarthWorm to interface the EW Tracebuff Transport system to a Mongo Database.
 #    Copyright (C) 2018  Francisco J Hernandez Ramirez
 #    You may contact me at FJHernandez89@gmail.com, FHernandez@boritechsolutions.com
