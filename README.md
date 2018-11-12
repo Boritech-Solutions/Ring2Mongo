@@ -65,4 +65,5 @@ If you have any comment or question contact us at:
 
 #### Acknowledgement:
 
-The development and maintenance of Ring2Mongo is funded entirely by software and research contracts with Boritech Solutions.
+ * Module Launcher coded by Erol Kalkan (USGS)
+ * The development and maintenance of Ring2Mongo is funded entirely by software and research contracts with Boritech Solutions.
