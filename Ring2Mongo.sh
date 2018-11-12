@@ -88,7 +88,7 @@ def main():
         #print(wave_id)
 
         #Sleep for a milisec (Yeah, it's needed otherwise it consumes too much CPU)
-        time.sleep(0.100)
+        time.sleep(0.001)
 
   print("ring2mongo has terminated")
 
